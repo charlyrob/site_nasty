@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nasty</title>
-</head>
-<body>
-    <!-- COUVERTURE -->
-    <div class="cover">
-        <h1>Nasty</h1>
-        <p>Montreuil, France</p>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Nasty</title>
+    </head>
+    <body>
+        <!-- COUVERTURE -->
+        <div>
+            <h1>Nasty</h1>
+            <p>Montreuil, France</p>
         
-        <div style="text-align: center;">
-            <a class="contact-button" href="mailto:mon_email@gmail.com?subject=Contact%20depuis%20jonathanroux.com">ME CONTACTER</a>
+            <div style="text-align: center;">
+                <a class="contact-button" href="mailto:mon_email@gmail.com?subject=Contact%20depuis%20jonathanroux.com">ME CONTACTER</a>
+            </div>
+            <div>
+                <p><a href="mailto:mon_email@gmail.com?subject=Contact%20depuis%20nastypecheresse.com">mon_email@gmail.com</a></p>
+                <p><a href="tel:+33612345678">06 12 34 56 78</a></p>
+            </div>
         </div>
-        <div class="cover-contact">
-            <p><a href="mailto:mon_email@gmail.com?subject=Contact%20depuis%20nastypecheresse.com">mon_email@gmail.com</a></p>
-            <p><a href="tel:+33612345678">06 12 34 56 78</a></p>
-        </div>
-    </div>
+        </body>
+ </html>
