@@ -4,12 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nasty</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <!-- COUVERTURE -->
     <div class="cover">
-        <img class="cover-profile" src="profile.png"/>
         <h1>Nasty</h1>
         <p>Montreuil, France</p>
         
