@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jonathan Roux</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- COUVERTURE -->
+    <div class="cover">
+        <img class="cover-profile" src="profile.png"/>
+        <h1>Jonathan Roux</h1>
+        <p>Développeur Freelance | 16 ans d'expérience</p>
+        
+        <div style="text-align: center;">
+            <a class="contact-button" href="mailto:mon_email@gmail.com?subject=Contact%20depuis%20jonathanroux.com">ME CONTACTER</a>
+        </div>
+        <div class="cover-contact">
+            <p><a href="mailto:mon_email@gmail.com?subject=Contact%20depuis%20jonathanroux.com">mon_email@gmail.com</a></p>
+            <p><a href="tel:+33612345678">06 12 34 56 78</a></p>
+        </div>
+    </div>
